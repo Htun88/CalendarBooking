@@ -42,10 +42,14 @@ git clone <repository-url>
    Replace `DD/MM` with the date in day/month format (e.g., 17/04), and `hh:mm
 
 ## Example
-Enter command (ADD, DELETE, FIND, KEEP, EXIT):
+Enter command (ADD, DELETE, FIND, KEEP, EXIT)
+
 ADD 
+
 Enter datetime: DD/MM hh:mm (24 hours format only)
+
 17/04 14:00
+
 Appointment added successfully.
 
 ## Contributing
